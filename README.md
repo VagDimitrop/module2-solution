@@ -12,3 +12,6 @@ In the desktop view (992px and above), each of the 3 sections take up equal amou
 In the tablet view (between 768px and 991px, inclusively), the first 2 sections are in the first row and of equal size 
 while the 3rd section is in the second row and takes up the entire row by itself.
 In the mobile view (equal to or less than 767px), each section takes up the entire row.
+
+
+Click on the link to see the result : https://vagdimitrop.github.io/module2-solution/
